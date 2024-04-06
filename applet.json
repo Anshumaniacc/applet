@@ -1,7 +1,7 @@
 {
     "name": "Applet",
     "description": "NFT Description",
-    "image": "image url",
+    "image": "https://fastly.picsum.photos/id/66/3264/2448.jpg?hmac=H9yvGug9-Lk5f-1qZqs6dEV-Yd40jFOIC7oudo4eBK4",
     "attributes": [
         {
             "trait_type": "Trait Name",
